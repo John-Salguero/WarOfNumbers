@@ -1,0 +1,4 @@
+# WarOfNumbers
+These add up the odd and even numbers and find the difference.
+
+These programs use the command line arguments as input
